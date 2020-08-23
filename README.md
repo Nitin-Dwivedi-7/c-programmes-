@@ -1,2 +1,3 @@
 # c-programmes-
-This repository include code of games like stone paper and many more
+This repository include C code of games like stone paper and ping pong 
+
